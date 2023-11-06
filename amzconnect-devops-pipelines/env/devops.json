@@ -1,6 +1,6 @@
 {
     "env": "devops",
-    "account": "310673741975",
+    "account": "160695687214",
     "region": "ap-northeast-2",
     "codestarArn": "arn:aws:codestar-connections:ap-northeast-2:160695687214:connection/55ab113e-aa61-451c-92f4-8119a8848185",
     "repo": "cicd-connect-workshop",
