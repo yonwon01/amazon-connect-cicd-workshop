@@ -1,6 +1,6 @@
 {
-  "instanceAlias": "myTestalias-aaazzz",
-  "instanceStorageBucketName": "connect-aaazzz",
+  "instanceAlias": "amzconnect-seowon",
+  "instanceStorageBucketName": "mzconnect-seowon",
   "identityManagementType": "CONNECT_MANAGED",
   "instanceStorageConfig": [
     {
